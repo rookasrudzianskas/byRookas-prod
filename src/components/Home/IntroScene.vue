@@ -3,7 +3,7 @@
     <div class="static-container">
       <h1 class="title">
         <span class="iuri">rokas</span>
-        <span class="func">.com()</span>
+        <span class="func">.rudzianskas()</span>
       </h1>
 
       <TextBlock>
