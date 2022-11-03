@@ -6,7 +6,7 @@
       </h1>
 
       <TextBlock>
-        <p>The page you requested could not be found.</p>
+        <p>You are lost at byRookas space.</p>
         <router-link to="/" title="Back home" class="bt">
           <svg class="nav-ico -prev" viewBox="0 0 16 16">
             <path d="M5,1h10v10 M5.5,10.5l0.8-0.8" />

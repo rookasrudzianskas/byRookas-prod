@@ -2,7 +2,7 @@
   <div class="earlyDays">
     <TitleSection scene="earlyTitle">
       <TitleFunction
-        params="2008,2011"
+        params="2011,2018"
         subtitle="&lt;table&gt;&lt;tr&gt;&lt;td&gt;..."
         >earlyDays</TitleFunction
       >
@@ -19,7 +19,7 @@
         <p>Design & illustration.</p>
         <p class="-big">
           A frontend developer<br />
-          <span class="-purple">with one foothold in arts.</span>
+          <span class="-purple">with one foothold in startups space.</span>
         </p>
       </TextBlock>
     </SceneSection>
@@ -32,20 +32,19 @@
           <span class="-purple">pixels.</span>
         </p>
         <p>
-          Illustrating album arts, book covers, and billboards as a freelancer.
-          And designing websites, online magazines, and news portals at my first
-          web studio.<br />
+          In a past life, I was an indie mobile developer making mobile apps
+          for iOS and Android and trying to build startup from scratch.<br />
         </p>
       </TextBlock>
     </SceneSection>
     <SceneSection id="early-days3">
       <TextBlock>
         <p>
-          We've proudly fueled the starring<br />
-          of some big Brazilian names such as
+          I've proudly partnered the starring<br />
+          of some big Tech names such as
           <span class="-big -purple"
-            ><em>Porta dos Fundos</em>, <em>Kibe Loco</em>, Fhits.tv,
-            <em>Galo Frito</em></span
+            ><em>Expo</em>, <em>Vercel</em>, GetStream,
+            <em>Vox Implant</em></span
           >
           among many others...
         </p>

@@ -3,9 +3,9 @@
     <SceneSection id="Ghibli">
       <TextBlock>
         <p>
-          Before designing for web, I was creating
+          Before designing for mobile, I was creating
           <span class="-big -purple">
-            3D models, matte painting and advertisements
+            Web based apps, 3D models and SASS businesses
           </span>
           for many brands, TV commercials, games...
         </p>
@@ -29,12 +29,12 @@
         <p class="-big">
           And studying
           <span class="-purple"
-            >Philosophy, Japanese animation, fine arts and video games.</span
+            >CS50, 3D animation, web development and video games.</span
           >
         </p>
         <p>
           All of these subjects have a major impact on how I start and develop
-          my creative processes, leading the way on how I view web development
+          my creative processes, leading the way on how I view web and app development
           today.
         </p>
       </TextBlock>

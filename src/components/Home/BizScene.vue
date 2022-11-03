@@ -1,26 +1,25 @@
 <template>
   <div class="bizScene">
     <TitleSection scene="bizTitle">
-      <TitleFunction params="2011,2019">biz</TitleFunction>
+      <TitleFunction params="2022">AI Design startup</TitleFunction>
     </TitleSection>
 
     <SceneSection id="biz1">
       <TextBlock>
         <p class="-big">
-          From 2011 to 2019 I was
+          From 2022 I am
           <strong class="-purple">Head of Frontend</strong>
           @
           <a
-            href="https://www.bizcommerce.com.br/"
+            href="https://www.uizard.com./"
             target="_blank"
             title="Visit Biz Commerce's website"
           >
-            biz</a
+            Uizard</a
           >.
         </p>
         <p>
-          A SaaS e-commerce platform focused on simplifying and customizing the
-          use of Magento.
+          A SaaS focused platform to design mobile apps, web apps, websites, and software interfaces effortlessly.
         </p>
       </TextBlock>
       <template #container>
@@ -38,22 +37,21 @@
     <SceneSection id="biz2">
       <TextBlock>
         <p>
-          Throughout these years we delivered hundreds of
+          Throughout this time I have learned a bunch of
           <span class="-big -purple">
-            tools, modules, integrations, and custom projects
+            tools, modules, tech, and trics
           </span>
-          for online stores and service providers.
+          for non-designers everywhere to build digital products.
         </p>
       </TextBlock>
     </SceneSection>
     <SceneSection id="biz3">
       <TextBlock>
         <p>
-          biz currently runs
+          currently I am working
           <span class="-big">
-            <span class="-purple">+1200 stores</span>, payment & shipping
-            integrations with
-            <span class="-purple">thousands of transactions</span> daily.
+            <span class="-purple">Mobile application</span>, to help non-coders
+            <span class="-purple">everywhere</span> to build internet products.
           </span>
         </p>
       </TextBlock>

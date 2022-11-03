@@ -5,10 +5,10 @@ import NProgress from 'nprogress'
 
 Vue.use(Router)
 
-const TITLE = 'iuri.is'
-const URL = 'https://iuri.is/'
+const TITLE = 'byrookas.com'
+const URL = 'https://byrookas.com/'
 const ABOUT =
-  'Frontend developer heavily influenced by storytelling, interactions, and UX. Addicted to music, visual arts, and games.'
+  'Frontend developer heavily influenced by storytelling, interactions, and UX. Addicted to music, building startups from scratch, and talking tech.'
 
 const router = new Router({
   mode: 'history',
@@ -16,7 +16,7 @@ const router = new Router({
   routes: [
     {
       path: '/',
-      name: '.is()',
+      name: '.rokas()',
       component: Home,
       meta: {
         title: TITLE,
@@ -60,7 +60,7 @@ const router = new Router({
       name: '.about()',
       component: () => import('./views/About.vue'),
       meta: {
-        title: 'iuri.about',
+        title: 'byrookas.about',
         bodyClass: 'page-about',
         metaTags: [
           {
@@ -70,7 +70,7 @@ const router = new Router({
           // facebook
           {
             name: 'og:title',
-            content: 'iuri.about',
+            content: 'byrookas.about',
           },
           {
             name: 'og:url',
@@ -83,7 +83,7 @@ const router = new Router({
           // twitter
           {
             name: 'twitter:title',
-            content: 'iuri.about',
+            content: 'byrookas.about',
           },
           {
             name: 'twitter:url',
@@ -106,7 +106,7 @@ const router = new Router({
       name: `.err(404)`,
       component: () => import('./views/404.vue'),
       meta: {
-        title: `iuri.err(404)`,
+        title: `byrookas.err(404)`,
         bodyClass: 'page-err404',
         metaTags: [
           {

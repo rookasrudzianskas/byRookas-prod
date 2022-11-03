@@ -4,7 +4,7 @@
       <Potion isPlaying />
 
       <div class="madeof">
-        <p class="-comment">// Made with</p>
+        <p class="-comment">// Made with ❤️ by Rokas Rudzianskas</p>
 
         <div class="cols">
           <ul class="col">
@@ -17,7 +17,7 @@
           </ul>
           <ul class="col">
             <li class="ico">~</li>
-            <li>+62 cups of coffee</li>
+            <li>+100 cups of coffee</li>
             <li>Endless references</li>
             <li>2 easter eggs</li>
           </ul>
