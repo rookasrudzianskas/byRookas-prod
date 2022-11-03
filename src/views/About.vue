@@ -2,7 +2,7 @@
   <div id="about" class="wrapper">
     <div class="pic"></div>
     <div class="static-container">
-      <h1 class="title">about(<span class="params">iuri</span>)</h1>
+      <h1 class="title">about(<span class="params">rokas</span>)</h1>
 
       <TextBlock>
         <div class="first-fold">
@@ -15,15 +15,15 @@
             </li>
             <li v-if="data.cv">
               Download my
-              <a
-                :href="`./${data.cv.file}`"
-                :title="data.cv.title"
-                target="_blank"
-                class="bt"
-              >
-                {{ data.cv.label }}
-                <CVIcon />
-              </a>
+<!--              <a-->
+<!--                :href="`./${data.cv.file}`"-->
+<!--                :title="data.cv.title"-->
+<!--                target="_blank"-->
+<!--                class="bt"-->
+<!--              >-->
+<!--                {{ data.cv.label }}-->
+<!--                <CVIcon />-->
+<!--              </a>-->
             </li>
           </ul>
 
@@ -188,7 +188,7 @@ export default {
     width: 43vw;
     aspect-ratio: 1/1;
     border-radius: 100%;
-    background-image: url(../assets/me.jpg);
+    background-image: url(../assets/me.png);
     background-repeat: no-repeat;
     background-position: center;
     background-size: contain;

@@ -254,7 +254,6 @@ export default {
     left: 0;
     width: 100%;
     height: 100%;
-    background: url('./assets/pepe-blink.png') 0 0 no-repeat;
     background-size: 100% 100%;
   }
   .bg-head-ear {
@@ -263,7 +262,7 @@ export default {
     z-index: 20;
     width: 100%;
     height: 100%;
-    background: url('./assets/head.png') 0 0 no-repeat;
+    //background: url('./assets/head.png') 0 0 no-repeat;
     background-size: 200% 100%;
   }
   /*am/pa*/

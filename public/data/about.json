@@ -1,30 +1,30 @@
 {
-  "email": "depaula.iuri@gmail.com",
+  "email": "rokas.rudzenskas@gmail.com",
   "links": [
     {
-      "url": "https://www.linkedin.com/in/iuridepaula/",
+      "url": "https://www.linkedin.com/in/rokasrudzianskas/",
       "title": "LinkedIn",
       "icon": "LinkedInIcon"
     },
     {
-      "url": "https://github.com/iuridepaula",
+      "url": "https://github.com/rookasrudzianskas",
       "title": "GitHub",
       "icon": "GithubIcon"
     }
   ],
   "cv": {
-    "file": "iuri.depaula.cv.pdf",
+    "file": "rokas.rudzianskas.cv.pdf",
     "title": "Download CV",
     "label": "CV"
   },
   "description": [
-    "Frontend developer heavily influenced by storytelling, interactions, and UX. Addicted to music, visual arts, and games.",
-    "From Brazil, based in Barcelona."
+    "Full-Stack developer strongly influenced by storytelling, interactions, and UX. Addicted to startups, programming, and talking tech.",
+    "From Lithuania, based around the World."
   ],
-  "subtitles": ["he/him"],
+  "subtitles": ["Rokas Rudzianskas"],
   "skills": [
-    ["Web app architecture", "Strategic thinking", "Storytelling"],
-    ["Frontend", "UX/UI"],
+    ["Web app architecture", "Mobile Development", "Strategic thinking", "Storytelling"],
+    ["Full-Stack", "UX/UI"],
     [
       "JavaScript",
       "CSS",
@@ -34,40 +34,31 @@
       "Node",
       "Canvas",
       "SVG",
-      "WebGL"
+      "WebGL",
+      "React Native",
+      "Three.js",
+      "TypeScript",
+      "GraphQL",
+        "D3",
+      "AWS"
     ],
-    ["Figma", "Photoshop", "Illustrator"]
+    ["Adobe XD", "Photoshop", "Illustrator", "After Effects", "Premiere Pro"]
   ],
   "experiences": [
     {
-      "position": "Senior Frontend Engineer",
-      "company": "Activision Blizzard King",
+      "position": "Advanced Frontend Engineer",
+      "company": "Uizard Technology",
       "time": "* current"
     },
     {
-      "position": "Senior Frontend Engineer",
-      "company": "ON AG",
-      "time": "2020-2022"
+      "position": "Advanced Full-Stack Engineer",
+      "company": "At ByRookas",
+      "time": "2018-2021"
     },
     {
-      "position": "Senior Frontend Engineer",
-      "company": "fromAtoB",
-      "time": "2019-2020"
-    },
-    {
-      "position": "Head of Frontend & UX",
-      "company": "Biz",
-      "time": "2011 - 2019"
-    },
-    {
-      "position": "Senior Frontend Developer",
-      "company": "Tray",
-      "time": "2008 - 2010"
-    },
-    {
-      "position": "Web Designer",
-      "company": "E2W",
-      "time": "2006 - 2008"
+      "position": "Learning and contributing to open source",
+      "company": "Online",
+      "time": "2011 - 2017"
     },
     {
       "position": "Freelancer",
@@ -76,14 +67,12 @@
   ],
   "languages": {
     "fluent": [
-      ["en-US", "English"],
-      ["pt-BR", "Português"]
+      ["en-US", "English"]
     ],
-    "intermediate": [["es-ES", "Español"]],
+    "intermediate": [["en-US", "English"]],
     "basic": [
-      ["de-DE", "Deutsch"],
-      ["ca-ES", "Català"]
+      ["dk-DK", "Danish"]
     ]
   },
-  "busy": ["Pet my dog", "Spanish guitar", "Games", "#eleNÃO"]
+  "busy": ["Creating NFT Collections", "Creating Tech Content on TikTok", "Tweeting", "#OpenSourcing"]
 }
