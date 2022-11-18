@@ -16,7 +16,7 @@
 
     <SceneSection id="early-days">
       <TextBlock>
-        <p>Design & illustration.</p>
+        <p>Rokas Rudzianskas | Design & illustration.</p>
         <p class="-big">
           A frontend developer<br />
           <span class="-purple">with one foothold in startups space.</span>
@@ -40,7 +40,7 @@
     <SceneSection id="early-days3">
       <TextBlock>
         <p>
-          I've proudly partnered the starring<br />
+          Rokas Rudzianskas 'e proudly partnered the starring<br />
           of some big Tech names such as
           <span class="-big -purple"
             ><em>Expo</em>, <em>Vercel</em>, GetStream,
