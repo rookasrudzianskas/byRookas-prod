@@ -5,10 +5,10 @@ import NProgress from 'nprogress'
 
 Vue.use(Router)
 
-const TITLE = 'byrookas.com'
+const TITLE = 'Rokas Rudzianskas | byrookas.com'
 const URL = 'https://byrookas.com/'
 const ABOUT =
-  'Frontend developer heavily influenced by storytelling, interactions, and UX. Addicted to music, building startups from scratch, and talking tech.'
+  'Rokas Rudzianskas | Frontend developer heavily influenced by storytelling, interactions, and UX. Addicted to music, building startups from scratch, and talking tech.'
 
 const router = new Router({
   mode: 'history',
