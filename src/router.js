@@ -16,7 +16,7 @@ const router = new Router({
   routes: [
     {
       path: '/',
-      name: '.rokas()',
+      name: '.rokas-rudzianskas()',
       component: Home,
       meta: {
         title: TITLE,
