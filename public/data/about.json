@@ -23,8 +23,8 @@
   ],
   "subtitles": ["Rokas Rudzianskas"],
   "skills": [
-    ["Web app architecture", "Mobile Development", "Strategic thinking", "Storytelling"],
-    ["Full-Stack", "UX/UI"],
+    ["Web app architecture", "Mobile Development", "UX/UI Design", "Product Management", "Microservices Architecture", "Machine Learning with Pytorch"],
+    ["Full-Stack", "UX/UI", "Product", "DevOps", "Machine Learning", "Data Science", "Data Engineering", "Data Animations", "App Animations", "Web Animations"],
     [
       "JavaScript",
       "CSS",
@@ -39,14 +39,27 @@
       "Three.js",
       "TypeScript",
       "GraphQL",
-        "D3",
-      "AWS"
+        "D3.js",
+        "Webpack",
+        "Babel",
+        "Gatsby",
+        "Next.js",
+        "Nuxt.js",
+        "Redux",
+      "AWS",
+        "Firebase",
+        "MongoDB",
+        "MySQL",
+        "PostgreSQL",
+        "Docker",
+        "Kubernetes",
+        "Jest"
     ],
     ["Adobe XD", "Photoshop", "Illustrator", "After Effects", "Premiere Pro"]
   ],
   "experiences": [
     {
-      "position": "Advanced Frontend Engineer",
+      "position": "Advanced Mobile Apps Engineer",
       "company": "Uizard Technology",
       "time": "* current"
     },

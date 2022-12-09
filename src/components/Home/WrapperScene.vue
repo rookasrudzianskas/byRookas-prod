@@ -1,6 +1,6 @@
 <template>
   <SceneSection class="scene" id="wrapperTitle">
-    <h1 class="title">&lt;/wrapper&gt;</h1>
+    <h1 class="title">&lt;/summary&gt;</h1>
   </SceneSection>
 </template>
 

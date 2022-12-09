@@ -4,13 +4,13 @@
       <Potion isPlaying />
 
       <div class="madeof">
-        <p class="-comment">// Made with ❤️ by Rokas Rudzianskas</p>
+        <p class="-comment">// Made with 💜️ by Rokas Rudzianskas</p>
 
         <div class="cols">
           <ul class="col">
             <li class="ico">(){&lt;/&gt;}</li>
-            <li>Vue 2</li>
-            <li>GSAP 2</li>
+            <li>Vue 3</li>
+            <li>GSAP 3</li>
             <li>ScrollMagic</li>
             <li>Photoshop</li>
             <li>Illustrator</li>
@@ -50,7 +50,7 @@ const SPOTIFY_TRACK = 'https://open.spotify.com/track/'
 const SONGS = [
   {
     id: '1pYBTRBbp3PCcdqoke2QSN',
-    label: 'BadBadNotGood',
+    label: 'Rokas Rudzianskas',
   },
 
   {
