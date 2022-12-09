@@ -9,8 +9,8 @@
       <TextBlock>
         <p class="-purple">Rokas Rudzianskas</p>
         <p class="-gray">
-          Hi! 👋 I craft awesome things for awesome people!
-          <p class="-gray">I'm a full-stack developer. Known for my whimsical creations, ability to context switch, and deliver innovative solutions.</p>
+          Hi! 👋 I craft awesome things for awesome people!<br />
+          I'm a full-stack developer. Known for my whimsical creations, ability to context switch, and deliver innovative solutions.
         </p>
       </TextBlock>
     </div>
