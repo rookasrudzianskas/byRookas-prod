@@ -27,7 +27,7 @@
       <TextBlock>
         <p class="-big">
           <span class="-purple">Programming</span> &<br />
-          <span class="-purple"> Creating Tech Content:</span><br />
+          <span class="-purple">Creating Tech Content:</span><br />
           <span class="-purple">@TikTok</span> &
           <span class="-purple">@YouTube.</span>
         </p>
