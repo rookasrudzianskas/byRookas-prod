@@ -1,14 +1,14 @@
 <template>
   <div class="bizScene">
     <TitleSection scene="bizTitle">
-      <TitleFunction params="2022">AI Design startup</TitleFunction>
+      <TitleFunction params="2022">Awesome creative Developer</TitleFunction>
     </TitleSection>
 
     <SceneSection id="biz1">
       <TextBlock>
         <p class="-big">
           From 2022 I am
-          <strong class="-purple">Head of Frontend</strong>
+          <strong class="-purple">Head of Mobile App Development team</strong>
           @
           <a
             href="https://www.uizard.com./"
@@ -19,7 +19,8 @@
           >.
         </p>
         <p>
-          A SaaS focused platform to design mobile apps, web apps, websites, and software interfaces effortlessly.
+          Where I am crafting thoughtful and all sorts of creative interactions with mobile app,
+          and the guts of AI prototyping vision modelling.
         </p>
       </TextBlock>
       <template #container>
@@ -37,21 +38,21 @@
     <SceneSection id="biz2">
       <TextBlock>
         <p>
-          Throughout this time I have learned a bunch of
+          During this time I have learned a number of
           <span class="-big -purple">
-            tools, modules, tech, and trics
+            tools, gained problem-solving skills, and and willingness
           </span>
-          for non-designers everywhere to build digital products.
+          to keep up with new technologies and developments in the field of programming.
         </p>
       </TextBlock>
     </SceneSection>
     <SceneSection id="biz3">
       <TextBlock>
         <p>
-          currently I am working
+          In my free time, I am
           <span class="-big">
-            <span class="-purple">Mobile application</span>, to help non-coders
-            <span class="-purple">everywhere</span> to build internet products.
+            <span class="-purple">Tech content creator</span> @TikTok and @YouTube.
+            <span class="-purple">Intern</span> at Twitter ML engineering team.
           </span>
         </p>
       </TextBlock>

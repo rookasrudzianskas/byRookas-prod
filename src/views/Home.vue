@@ -4,8 +4,8 @@
     <GapBlock />
 
     <TitleSection scene="curriculum">
-      <TitleFunction params="/^.*$/gi" subtitle="&lt;WorkShowcase&gt;"
-        >myCV</TitleFunction
+      <TitleFunction params="/^.*$/ro" subtitle="&lt;AwesomeShowcase&gt;"
+        >myCraftedDemos</TitleFunction
       >
     </TitleSection>
 
