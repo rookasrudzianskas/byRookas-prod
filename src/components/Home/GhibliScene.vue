@@ -3,11 +3,11 @@
     <SceneSection id="Ghibli">
       <TextBlock>
         <p>
-          Before designing for mobile, I was creating
+          It took me a while to get to this point, but I'm finally here. Through this process, I learned:
           <span class="-big -purple">
-            Web based apps, 3D models and SASS businesses
+            Craft Web-Based apps, Web/Mobile animating techniques and building my own brand.
           </span>
-          for many brands, TV commercials, games...
+          There are many things I want to learn, I am super excited to see what the future holds for me!
         </p>
       </TextBlock>
 
@@ -26,14 +26,20 @@
     <SceneSection id="Ghibli2" />
     <SceneSection id="Ghibli3">
       <TextBlock>
+        <p>
+          Through these years, I built a few innovative projects, I am happy to share.
+        </p>
         <p class="-big">
-          And studying
+          My First & Failed Startup (at age 17):
           <span class="-purple"
-            >CS50, 3D animation, web development and video games.</span
-          >
+            >BrainlyEmails.</span
+          > <br />
+          Feedback toolbox: <span class="-purple">QuickFeedback.</span>
+          <br />
+          My Tech Brand at age 18: <span class="-purple">@RokasRudzianskas.</span>
         </p>
         <p>
-          All of these subjects have a major impact on how I start and develop
+          All of these projects have a major impact on how I start and develop
           my creative processes, leading the way on how I view web and app development
           today.
         </p>
