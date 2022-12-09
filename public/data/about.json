@@ -93,5 +93,12 @@
       ["dk-DK", "Danish"]
     ]
   },
-  "busy": ["Creating NFT Collections", "Creating Tech Content @TikTok & @YouTube", "Tweeting Tech Tweets", "#OpenSourcing"]
+  "busy": ["Creating NFT Collections",
+    "Creating Tech Content @TikTok & @YouTube",
+    "Tweeting Tech Tweets",
+    "Open Sourcing",
+    "Learning Machine Learning",
+    "Learning animating with Three JS",
+    "Building apps with React Native"
+  ]
 }
