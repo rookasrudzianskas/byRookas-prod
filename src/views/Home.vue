@@ -19,7 +19,7 @@
       <TitleFunction subtitle="background.bmp">
         <span
           class="line"
-          v-for="text in ['Programming', 'Startups', 'Indie Projects']"
+          v-for="text in ['Eye-catching Programming', 'Startups Space', 'Indie Projects']"
           :key="text"
         >
           <span class="params">${</span>{{ text }}<span class="params">}</span>

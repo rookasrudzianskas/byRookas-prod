@@ -42,8 +42,8 @@
     <SceneSection id="early-days3">
       <TextBlock>
         <p>
-          Rokas Rudzianskas 'e proudly partnered the starring<br />
-          of some big Tech names such as
+          This journey, have opened many proud partnerships with the starring
+          of some big Tech names such as:<br />
           <span class="-big -purple"
             ><em>Expo</em>, <em>Vercel</em>, GetStream,
             <em>Vox Implant</em></span
