@@ -55,12 +55,17 @@
         "Kubernetes",
         "Jest"
     ],
-    ["Adobe XD", "Photoshop", "Illustrator", "After Effects", "Premiere Pro"]
+    ["Adobe XD", "Photoshop", "Illustrator", "After Effects", "Premiere Pro", "React Video"]
   ],
   "experiences": [
     {
       "position": "Advanced Mobile Apps Engineer",
       "company": "Uizard Technology",
+      "time": "* current"
+    },
+    {
+      "position": "Intern of Machine Learning at Twitter",
+      "company": "At Twitter",
       "time": "* current"
     },
     {
@@ -75,7 +80,8 @@
     },
     {
       "position": "Freelancer",
-      "company": "Illustrations & Web development"
+      "company": "Illustrations, Web development & App development",
+      "time": "2011 - today"
     }
   ],
   "languages": {
@@ -87,5 +93,5 @@
       ["dk-DK", "Danish"]
     ]
   },
-  "busy": ["Creating NFT Collections", "Creating Tech Content on TikTok", "Tweeting", "#OpenSourcing"]
+  "busy": ["Creating NFT Collections", "Creating Tech Content @TikTok & @YouTube", "Tweeting Tech Tweets", "#OpenSourcing"]
 }
