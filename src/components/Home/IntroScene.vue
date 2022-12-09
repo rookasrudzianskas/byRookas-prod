@@ -2,13 +2,16 @@
   <section class="scene-intro" id="intro">
     <div class="static-container">
       <h1 class="title">
-        <span class="iuri">rokas</span>
-        <span class="func">.rudzianskas()</span>
+        <span class="iuri">hi</span>
+        <span class="func">.rokas()</span>
       </h1>
 
       <TextBlock>
         <p class="-purple">Rokas Rudzianskas</p>
-        <p class="-gray">Creative Full-Stack developer</p>
+        <p class="-gray">
+          Hi! 👋 I craft awesome things for awesome people!
+          <p class="-gray">I'm a full-stack developer. Known for my whimsical creations, ability to context switch, and deliver innovative solutions.</p>
+        </p>
       </TextBlock>
     </div>
   </section>
