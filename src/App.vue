@@ -37,7 +37,7 @@ export default {
   },
   methods: {
     enter(el, done) {
-      // intro animations
+      // intro animations showcase
       this.introTimeline
         .clear()
         .addLabel('enter', 0)
