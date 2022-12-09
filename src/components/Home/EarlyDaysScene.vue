@@ -18,22 +18,24 @@
       <TextBlock>
         <p>Rokas Rudzianskas | Design & illustration.</p>
         <p class="-big">
-          A frontend developer<br />
-          <span class="-purple">with one foothold in startups space.</span>
+          Few years ago, I got into tech.<br />
+          <span class="-purple">Today, it have changed my life forever.</span>
         </p>
       </TextBlock>
     </SceneSection>
     <SceneSection id="early-days2">
       <TextBlock>
         <p class="-big">
-          <span class="-purple">Freelancing</span> &
-          <span class="-purple">startuping,</span><br />
-          <span class="-purple">Inches</span> &
-          <span class="-purple">pixels.</span>
+          <span class="-purple">Programming</span> &<br />
+          <span class="-purple"> Creating Tech Content:</span><br />
+          <span class="-purple">@TikTok</span> &
+          <span class="-purple">@YouTube.</span>
         </p>
         <p>
-          In a past life, I was an indie mobile developer making mobile apps
-          for iOS and Android and trying to build startup from scratch.<br />
+          Few years ago, I jumped into tech, it was love from first sight.
+          Through these years I worked on art and all sorts of creative interactions with Machine Learning,
+          creating ThreeJS based web applications and mobile apps, and the guts of playing with OpenAI.
+          <br />
         </p>
       </TextBlock>
     </SceneSection>
