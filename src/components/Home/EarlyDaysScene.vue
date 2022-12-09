@@ -45,7 +45,7 @@
           This journey, have opened many proud partnerships with the starring
           of some big Tech names such as:<br />
           <span class="-big -purple"
-            ><em>Expo</em>, <em>Vercel</em>, GetStream,
+            ><em>Expo</em>, <em>Vercel</em>, Get-Stream,
             <em>Vox Implant</em></span
           >
           among many others...
