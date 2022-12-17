@@ -19,7 +19,7 @@
           >.
         </p>
         <p>
-          Where I am crafting thoughtful and all sorts of creative interactions with mobile app,
+          Where I am crafting thoughtful and all sorts of creative interactions with web/native technologies,
           and the guts of AI prototyping vision modelling.
         </p>
       </TextBlock>
