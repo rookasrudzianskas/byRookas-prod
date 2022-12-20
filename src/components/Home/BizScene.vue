@@ -8,7 +8,7 @@
       <TextBlock>
         <p class="-big">
           From 2022 I am
-          <strong class="-purple">Head of Mobile App Development team</strong>
+          <strong class="-purple">Part of Software Engineering Development team</strong>
           @
           <a
             href="https://www.uizard.com./"
